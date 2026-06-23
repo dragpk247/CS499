@@ -10,3 +10,5 @@ The primary artifact featured in this portfolio is the Travlr Getaways full-stac
 Throughout the enhancement process, I improved application architecture, implemented algorithmic optimizations, enhanced database validation and indexing, and strengthened overall reliability and maintainability. These enhancements demonstrate my ability to analyze existing software systems, identify opportunities for improvement, and implement industry-standard solutions.
 
 Thank you for visiting my portfolio.
+
+
